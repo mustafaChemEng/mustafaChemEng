@@ -17,6 +17,8 @@
 ## 📌 Featured Projects  
 🔥 **[Cellulose Production Process](https://github.com/mustafachemeng/cellulose-project)** – Designed a 1000-ton/year cellulose production system.  
 ⚙️ **[Petroleum Refinery Pipeline Design](https://github.com/mustafachemEng/pipeline-design)** – Optimized pipeline diameter using Python & SolidWorks.  
+⚙️ **[Syngas Production as Energy Renewable energy Sources ](https://github.com/mustafachemEng/syngas-production)** – Optimized pipeline diameter using Python & SolidWorks.  
+
 
 ## 📫 Let's Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-ali-2b5624257/)  
