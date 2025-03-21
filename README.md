@@ -1,7 +1,26 @@
-Hi there, I'm Mustafa (Safsaf) 👋<br/>
-Chemical Engineering Student | Programmer | Tech Enthusiast<br>
+# 👋 Hi, I'm Mustafa Ali Yahya Adam  
+<br/>
+🎓 **Chemical Engineering Student** at *Bolu Abant Izzet Baysal University*  
+💡 Passionate about **process engineering, programming, and problem-solving**  
+💻 Skilled in **Python, MATLAB, SolidWorks, C++, Chemical Process Design**  
 
-I am currently pursuing my Bachelor's degree in Chemical Engineering at Bolu Abant Izzet Baysal University. With a passion for merging technology with engineering, I’ve been exploring various tools and programming languages to solve real-world problems. Whether it's Python, JavaScript, HTML, CSS, SolidWorks, or MATLAB, I'm always eager to learn and build innovative projects.
+## 🚀 About Me  
+🔹 I am a **Chemical Engineering student** with a keen interest in **process optimization, automation, and computational modeling**.  
+🔹 I enjoy **coding and engineering design**, using tools like Python, MATLAB, and SolidWorks to solve real-world problems.  
+🔹 Currently learning **C# and Unity** to expand my development skills.  
+
+## 🔧 Tech Stack  
+- **Programming:** C++ | MATLAB | Python | C# (learning)  
+- **Engineering Tools:** SolidWorks | AutoCAD | MATLAB  
+- **Web:** HTML | CSS (basic)  
+
+## 📌 Featured Projects  
+🔥 **[Cellulose Production Process](https://github.com/mustafachemeng/cellulose-project)** – Designed a 1000-ton/year cellulose production system.  
+⚙️ **[Petroleum Refinery Pipeline Design](https://github.com/mustafachemEng/pipeline-design)** – Optimized pipeline diameter using Python & SolidWorks.  
+
+## 📫 Let's Connect  
+🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-ali-2b5624257/)  
+📧 Email: must23393@example.com  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100066618020433) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/c_jay_233/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mustafa-ali-2b5624257/?lipi=urn%3Ali%3Apage%3Ad_flagship3_notifications%3BgxaKr0oPTcWivI7JDE%2BeMA%3D%3D) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Must23393Ali) 
