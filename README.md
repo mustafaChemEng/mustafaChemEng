@@ -15,10 +15,9 @@
 - **Web:** HTML | CSS (basic)  
 
 ## 📌 Featured Projects  
+⚙️ **[Petroleum Refinery Pipeline Design](https://github.com/mustafaChemEng/Crude-Oil-Pipeline-System-Design.git)** – Optimized pipeline diameter using Python & SolidWorks (Fluid Mechanics).  
+⚙️ **[Syngas Production as Energy Renewable energy Sources ](https://github.com/mustafaChemEng/Syngas-Production-Process.git)** – Optimized synthetic gas using MATLAB, C++, SolidWorks & Excel (On going Project) (ChemEng Design1).  
 🔥 **[Cellulose Production Process](https://github.com/mustafachemeng/cellulose-project)** – Designed a 1000-ton/year cellulose production system.  
-⚙️ **[Petroleum Refinery Pipeline Design](https://github.com/mustafaChemEng/Crude-Oil-Pipeline-System-Design.git)** – Optimized pipeline diameter using Python & SolidWorks.  
-⚙️ **[Syngas Production as Energy Renewable energy Sources ](https://github.com/mustafaChemEng/Syngas-Production-Process.git)** – Optimized synthetic gas using MATLAB, C++, SolidWorks & Excel (On going Project).  
-
 
 ## 📫 Let's Connect  
 🔗 [LinkedIn](https://www.linkedin.com/in/mustafa-ali-2b5624257/)  
