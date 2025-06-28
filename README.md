@@ -35,14 +35,15 @@
 ## 📜 Certifications
 
 - **AIChE SACHE Safety Series**  
-  - ✔️ Chemical Process Safety – Fundamentals  
-  - ✔️ Runaway Reactions  
-  - ✔️ Hazard Recognition  
-  - ✔️ Identifying & Minimizing Hazards  
-  - ✔️ Chemical Reactivity Hazards  
+  -  Chemical Process Safety – Fundamentals  
+  -  Runaway Reactions  
+  -  Hazard Recognition  
+  -  Identifying & Minimizing Hazards  
+  -  Chemical Reactivity Hazards  
 
 - **Other Key Certificates**  
-  - 📘 Project Management Fundamentals  
+  - 📘 Project Management Fundamentals
+  - 📱💡 User experiences & User interface (UX/UI) design
   - 🐍 Python Programming (Udemy)  
   - 🌐 HTML & CSS3 (SoloLearn)  
   - 🗣️ English Proficiency Certificate  
@@ -62,15 +63,14 @@
 ---
 
 ## 📌 Featured Projects
+- - 🧪 [**Syngas Production (Renewable Energy)**](https://github.com/mustafaChemEng/Syngas-Production-Process)  
+  Integrated model using MATLAB, Excel, SolidWorks, and C++
 
 - ⚙️ [**Petroleum Refinery Pipeline Design**](https://github.com/mustafaChemEng/Crude-Oil-Pipeline-System-Design)  
   Pipeline sizing via Python and SolidWorks (Fluid Mechanics)
 
 - 🔥 [**Cellulose Production Process**](https://github.com/mustafachemeng/cellulose-project)  
   Designed 1000-ton/year cellulose plant using fundamental design principles
-
-- 🧪 [**Syngas Production (Renewable Energy)**](https://github.com/mustafaChemEng/Syngas-Production-Process)  
-  Integrated model using MATLAB, Excel, SolidWorks, and C++
 
 - 🍹 [**Sharbot Fermentation Model**](https://github.com/mustafaChemEng/Sharbot-Fermentation-Lifecycle-Model)  
   Simulates sugar → ethanol → vinegar dynamics + CO₂ generation
