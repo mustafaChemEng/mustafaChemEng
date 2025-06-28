@@ -1,4 +1,3 @@
-[![Banner](https://raw.githubusercontent.com/mustafaChemEng/mustafaChemEng/main/assets/banner.png)](https://sdmntpreastus2.oaiusercontent.com/files/00000000-ecd8-61f6-97a9-3115d7613014/raw?se=2025-06-28T23%3A03%3A57Z&sp=r&sv=2024-08-04&sr=b&scid=7de70772-4169-5efc-8d0b-f773a2d9a26d&skoid=0da8417a-a4c3-4a19-9b05-b82cee9d8868&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-06-28T19%3A09%3A11Z&ske=2025-06-29T19%3A09%3A11Z&sks=b&skv=2024-08-04&sig=Nvn%2BRLBbJRFVr9WwZATRs0jVMy2hN3icEc5szcJ8HVw%3D)
 
 # 👋 Hi, I'm Mustafa A.Y Adam
 
@@ -104,13 +103,13 @@
 
 ## 💻 Tech Stack (Badges)
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)    
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)    
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)    
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=Mathworks&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)    
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)    
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)    
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)    
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
