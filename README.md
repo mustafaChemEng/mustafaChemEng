@@ -31,7 +31,7 @@
 
 ---
 
-## 📜 Certifications
+## 📜 Verified Certifications & Profiles
 
 - **AIChE SACHE Safety Series**  
   -  🛡🏭  Chemical Process Safety – Fundamentals  
@@ -40,13 +40,34 @@
   -  🔎⚠ Identifying & Minimizing Hazards  
   -  🧪⚡Chemical Reactivity Hazards  
 
-- **Other Key Certificates**  
-  - 📘 Project Management Fundamentals
-  - 📱 User experiences & User interface (UX/UI) design
-  - 🐍 Python Programming (Udemy)  
-  - 🌐 HTML & CSS3 (SoloLearn)  
+### 📚 Coursera (Certificates)
+
+  - 🧠 [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/account/accomplishments/records/B0LZN4VLLGCL)  
+  - 📊 [Foundations of Project Management](https://www.coursera.org/account/accomplishments/records/JRN7UDMLZ9M1)  
+  - 🌐 [Introduction to HTML5](https://www.coursera.org/account/accomplishments/records/YYW10F581R2B)  
+  - 📎 [Getting Started with Microsoft Office 365](https://www.coursera.org/account/accomplishments/records/LHW94HHX19GD)  
+  - 🎨 [Introduction to CSS3](https://www.coursera.org/account/accomplishments/records/GREJEPU36WJ5)  
+  - 👨‍💻 [Foundations of User Experience (UX) Design](https://www.coursera.org/account/accomplishments/records/VZSJW4A45AYA)  
+  - 🐍 [Programming for Everybody (Getting Started with Python)](https://www.coursera.org/account/accomplishments/records/KEJNLQU87WVA)
+
+- **Other Key Certificates**
+  
+  - 🐍 Python Programming (Codezella)  
   - 🗣️ English Proficiency Certificate  
   - 🧑‍🏫 Training of Trainers (TOT)
+  - 💡 Teaching Training Certificate (TTC)
+ 
+    
+### 🧠 LinkedIn Learning
+
+- 🤖 [Introduction to PLC and Industrial Automation](https://www.linkedin.com/learning/certificates/20ca4017e436266ee2a6732cc38d929880c6e5bf648b3f2305e2e2b3983b4a3b?trk=share_certificate)  
+  *Completed May 24, 2025*
+
+### 🔗 Public Profiles
+
+- 🎓 [Coursera Accomplishments Overview](https://www.coursera.org/accomplishments)  
+- 🧪 [Tutor Certificate – ChemEngStudent.com](https://www.chemengstudent.com/tutor-certificate/?cert_hash=90d9e3005399dcc6&v=e7d707a26e7f)  
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/mustafa-adam-2b5624257/)
 
 ---
 
