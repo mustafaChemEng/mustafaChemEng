@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-🔹 I'm a future-oriented **Chemical Engineer-in-training** focused on building real-world solutions through **process modeling, automation, and creative coding**.  
+🔹 I'm a future-oriented **Chemical Engineer-in-training** focused on building real-world solutions through **process modeling & optimization, automation, and creative coding**.  
 🔹 I merge **engineering principles** with **programming power** to simulate, optimize, and innovate in chemical processes.  
-🔹 Currently expanding into **C# and Unity** to build interactive models and simulations.  
+🔹 Currently expanding into **C++//C# and MatLab** to build interactive models and simulations.  
 🔹 Exploring **academic research**, industrial internships, and **open-source publishing**.
 
 ---
@@ -25,7 +25,7 @@
 
 - 📚 Core Courses:  
   `Engineering Thermodynamics`, `Fluid Mechanics`, `Heat & Mass Transfer`,  
-  `Computer-Aided Technical Drawing`, `Quality Management`, `CRE`, `Design I & II`
+  `Computer-Aided Technical Drawing`, `Quality Management`, `CRE`, `Design I,II & III`
 
 - 🧪 Ongoing Research:  
   🔬 [Sharbot Fermentation Lifecycle Simulation](https://github.com/mustafaChemEng/Sharbot-Fermentation-Lifecycle-Model) – A full Simulink model tracking ethanol and vinegar formation.
@@ -35,15 +35,15 @@
 ## 📜 Certifications
 
 - **AIChE SACHE Safety Series**  
-  -  Chemical Process Safety – Fundamentals  
-  -  Runaway Reactions  
-  -  Hazard Recognition  
-  -  Identifying & Minimizing Hazards  
-  -  Chemical Reactivity Hazards  
+  -  🛡🏭  Chemical Process Safety – Fundamentals  
+  -  💥⚗  Runaway Reactions  
+  -  👁⚠  Hazard Recognition  
+  -  🔎⚠ Identifying & Minimizing Hazards  
+  -  🧪⚡Chemical Reactivity Hazards  
 
 - **Other Key Certificates**  
   - 📘 Project Management Fundamentals
-  - 📱💡 User experiences & User interface (UX/UI) design
+  - 📱 User experiences & User interface (UX/UI) design
   - 🐍 Python Programming (Udemy)  
   - 🌐 HTML & CSS3 (SoloLearn)  
   - 🗣️ English Proficiency Certificate  
@@ -69,8 +69,8 @@
 - ⚙️ [**Petroleum Refinery Pipeline Design**](https://github.com/mustafaChemEng/Crude-Oil-Pipeline-System-Design)  
   Pipeline sizing via Python and SolidWorks (Fluid Mechanics)
 
-- 🔥 [**Cellulose Production Process**](https://github.com/mustafachemeng/cellulose-project)  
-  Designed 1000-ton/year cellulose plant using fundamental design principles
+- 🔥 [**Batch Reactor Simulation **](https://github.com/mustafachemeng/Batch_Reactor_AtoBtoC)  
+  Simulated Batch Reactor for series of reactions A --> B --> C, to find the max volume of the reactor
 
 - 🍹 [**Sharbot Fermentation Model**](https://github.com/mustafaChemEng/Sharbot-Fermentation-Lifecycle-Model)  
   Simulates sugar → ethanol → vinegar dynamics + CO₂ generation
@@ -98,8 +98,6 @@
 ## 🌐 Social Media
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ali-2b5624257/)  
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066618020433)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/c_jay_233/)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Must23393Ali)
 
 ---
