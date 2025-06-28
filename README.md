@@ -1,16 +1,19 @@
+![Banner](https://raw.githubusercontent.com/mustafaChemEng/mustafaChemEng/main/assets/banner.png)
+
 # 👋 Hi, I'm Mustafa A.Y Adam
 
 🎓 **Chemical Engineering Student** at *Bolu Abant Izzet Baysal University*  
-💡 Passionate about **process engineering, simulation, and problem-solving**  
+💡 Passionate about **process engineering, simulation, and chemical innovation**  
 💻 Skilled in **Python, MATLAB, SolidWorks, C++, and Chemical Process Design**
 
 ---
 
 ## 🚀 About Me
 
-🔹 I'm an enthusiastic **Chemical Engineering student** driven by innovation in **process modeling, automation, and sustainable design**.  
-🔹 I love combining **engineering and programming** to build creative solutions for real-world challenges.  
-🔹 Currently learning **C# and Unity** to broaden my skills in simulation and software development.
+🔹 I'm a future-oriented **Chemical Engineer-in-training** focused on building real-world solutions through **process modeling, automation, and creative coding**.  
+🔹 I merge **engineering principles** with **programming power** to simulate, optimize, and innovate in chemical processes.  
+🔹 Currently expanding into **C# and Unity** to build interactive models and simulations.  
+🔹 Exploring **academic research**, industrial internships, and **open-source publishing**.
 
 ---
 
@@ -18,84 +21,85 @@
 
 - 🏫 **Bolu Abant Izzet Baysal University**, Turkey  
   Bachelor of Science in **Chemical Engineering**  
-  *GPA: 2.7 (on 4.0)* | Expected Graduation: 2026
+  *GPA: Above 3.00 (on 4.0)* | Expected Graduation: 2026  
 
-- 📚 Relevant Courses:  
-  `Engineering Thermodynamics`, `Fluid Mechanics`, `Heat & Mass Transfer`, `Computer-Aided Drawing`, `Quality Management`, `CRE`, `Chemical Engineering Design I`
+- 📚 Core Courses:  
+  `Engineering Thermodynamics`, `Fluid Mechanics`, `Heat & Mass Transfer`,  
+  `Computer-Aided Technical Drawing`, `Quality Management`, `CRE`, `Design I & II`
 
 - 🧪 Ongoing Research:  
-  [Sharbot Fermentation Lifecycle Simulation](https://github.com/mustafaChemEng/Sharbot-Fermentation-Lifecycle-Model)
+  🔬 [Sharbot Fermentation Lifecycle Simulation](https://github.com/mustafaChemEng/Sharbot-Fermentation-Lifecycle-Model) – A full Simulink model tracking ethanol and vinegar formation.
 
 ---
 
 ## 📜 Certifications
 
-- **AIChE SACHE Process Safety Courses**  
+- **AIChE SACHE Safety Series**  
   - ✔️ Chemical Process Safety – Fundamentals  
   - ✔️ Runaway Reactions  
   - ✔️ Hazard Recognition  
   - ✔️ Identifying & Minimizing Hazards  
   - ✔️ Chemical Reactivity Hazards  
 
-- 📘 **Additional Certificates**  
-  - Project Management (PM) Fundamentals  
-  - Python Programming (Udemy)  
-  - HTML & CSS3 (SoloLearn)  
-  - English Proficiency Certificate  
-  - Training of Trainers (TOT)
+- **Other Key Certificates**  
+  - 📘 Project Management Fundamentals  
+  - 🐍 Python Programming (Udemy)  
+  - 🌐 HTML & CSS3 (SoloLearn)  
+  - 🗣️ English Proficiency Certificate  
+  - 🧑‍🏫 Training of Trainers (TOT)
 
 ---
 
 ## 🧠 Research Interests & Goals
 
-- 🧬 **Biochemical Process Modeling**
-- ⚡ **Energy Systems (Syngas, Biofuels, Hydrogen)**
-- 🧠 **AI/ML in Chemical Engineering**
-- 🧪 **Fermentation & Bioreactor Design**
-- 🌱 **Sustainability & Circular Economy**
-- 🔬 **Simulation & Control of Processes (Simulink, MATLAB)**
+- 🔁 **Biochemical Process Lifecycle Modeling**
+- ⚡ **Clean & Renewable Energy Systems (Syngas, Hydrogen)**
+- 🔍 **AI/ML for Process Optimization**
+- 🧪 **Fermentation, Bioreactors & Smart Control**
+- 🌱 **Sustainability in Chemical Engineering**
+- 📊 **MATLAB & Simulink for Dynamic Systems**
 
 ---
 
 ## 📌 Featured Projects
 
 - ⚙️ [**Petroleum Refinery Pipeline Design**](https://github.com/mustafaChemEng/Crude-Oil-Pipeline-System-Design)  
-  Optimized pipeline diameter using Python & SolidWorks *(Fluid Mechanics)*
-
-- ⚙️ [**Syngas Production as Renewable Energy Source**](https://github.com/mustafaChemEng/Syngas-Production-Process)  
-  Ongoing modeling project using MATLAB, C++, SolidWorks & Excel *(ChemEng Design I)*
+  Pipeline sizing via Python and SolidWorks (Fluid Mechanics)
 
 - 🔥 [**Cellulose Production Process**](https://github.com/mustafachemeng/cellulose-project)  
-  Designed a 1000-ton/year cellulose system *(Equipment Design & Mass Balance)*
+  Designed 1000-ton/year cellulose plant using fundamental design principles
 
-- 🍹 [**Sharbot Fermentation Lifecycle Model**](https://github.com/mustafaChemEng/Sharbot-Fermentation-Lifecycle-Model)  
-  Dynamic Simulink model simulating sugar-to-ethanol-to-vinegar conversion
+- 🧪 [**Syngas Production (Renewable Energy)**](https://github.com/mustafaChemEng/Syngas-Production-Process)  
+  Integrated model using MATLAB, Excel, SolidWorks, and C++
+
+- 🍹 [**Sharbot Fermentation Model**](https://github.com/mustafaChemEng/Sharbot-Fermentation-Lifecycle-Model)  
+  Simulates sugar → ethanol → vinegar dynamics + CO₂ generation
 
 ---
 
 ## 🧭 Currently Working On
 
-- 📚 Completing C++ Roadmap (via ProgrammingAdvices.com)
-- 🧠 Publishing a scientific case study on Sharbot fermentation
-- 📈 Preparing for Erasmus internship opportunities
-- 🛠 Improving portfolio website + GitHub projects
-- ✍️ Developing writing & communication for IELTS + blog publishing
+- 🧠 Publishing a Sharbot case study & journal-style paper  
+- 📚 Advancing through the full [C++ Roadmap](https://programmingadvices.com)  
+- ✍️ Daily writing practice toward a complete writing portfolio  
+- 🌍 Preparing for **Erasmus+ internships** in Türkiye and Africa  
+- 🛠 Building portfolio website + GitHub README redesigns  
 
 ---
 
 ## 🛠 Tools I Use
 
-| Engineering | Programming | Productivity | Design |
-|-------------|-------------|--------------|--------|
-| MATLAB, SolidWorks, AutoCAD | Python, C++, C# | Git, VS Code, Overleaf | Canva, Figma, WordPress |
+| Engineering         | Programming           | Productivity         | Design           |
+|---------------------|------------------------|------------------------|------------------|
+| MATLAB, SolidWorks, AutoCAD | Python, C++, C#, HTML/CSS | Git, VS Code, Overleaf | Canva, Figma, WordPress |
 
 ---
 
-## 🌍 Social Media
+## 🌐 Social Media
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ali-2b5624257/)  
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100066618020433)  
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/c_jay_233/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-ali-2b5624257/)  
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Must23393Ali)
 
 ---
@@ -134,11 +138,9 @@
 
 ### ✍️ Blog & Publications (Coming Soon)
 
-Stay tuned for blog articles and case studies in  
-`process modeling`, `chemical simulations`, and `engineering tools`.
+Stay tuned for upcoming articles in:  
+📘 `Process Simulation` · ⚗️ `Chemical Engineering Case Studies` · 💬 `Academic Reflections`
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=mustafaChemEng&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
