@@ -3,7 +3,7 @@
 
 🎓 **Chemical Engineering Student** at *Bolu Abant Izzet Baysal University*  
 💡 Passionate about **process engineering, simulation, and chemical innovation**  
-💻 Skilled in **Python, MATLAB, SolidWorks, C++, and Chemical Process Design**
+💻 Skilled in **Python, MATLAB, SolidWorks, C++, and Chemical Process Simulation**
 
 ---
 
@@ -52,16 +52,16 @@
 
 - **Other Key Certificates**
   
-  - 🐍 Python Programming (Codezella)  
-  - 🗣️ English Proficiency Certificate  
-  - 🧑‍🏫 Training of Trainers (TOT)
-  - 💡 Teaching Training Certificate (TTC)
+    - 🐍 Python Programming (Codezella)  
+    - 🗣️ English Proficiency Certificate  
+    - 🧑‍🏫 Training of Trainers (TOT)
+    - 💡 Teaching Training Certificate (TTC)
  
     
 ### 🧠 LinkedIn Learning
 
-- 🤖 [Introduction to PLC and Industrial Automation](https://www.linkedin.com/learning/certificates/20ca4017e436266ee2a6732cc38d929880c6e5bf648b3f2305e2e2b3983b4a3b?trk=share_certificate)  
-  *Completed May 24, 2025*
+   - 🤖 Introduction to PLC and Industrial Automation
+        *Completed May 24, 2025*
 
 ### 🔗 Public Profiles
 
