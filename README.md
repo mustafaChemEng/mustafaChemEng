@@ -42,7 +42,7 @@
 
 ### 📚 Coursera (Certificates)
 
-  - 🧠 [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/account/accomplishments/records/B0LZN4VLLGCL)  
+  -  🧠  [Create Interactive Dashboards with Streamlit and Python](https://www.coursera.org/account/accomplishments/records/B0LZN4VLLGCL)  
   - 📊 [Foundations of Project Management](https://www.coursera.org/account/accomplishments/records/JRN7UDMLZ9M1)  
   - 🌐 [Introduction to HTML5](https://www.coursera.org/account/accomplishments/records/YYW10F581R2B)  
   - 📎 [Getting Started with Microsoft Office 365](https://www.coursera.org/account/accomplishments/records/LHW94HHX19GD)  
@@ -52,10 +52,10 @@
 
 - **Other Key Certificates**
   
-    - 🐍 Python Programming (Codezella)  
-    - 🗣️ English Proficiency Certificate  
-    - 🧑‍🏫 Training of Trainers (TOT)
-    - 💡 Teaching Training Certificate (TTC)
+  - 🐍 Python Programming (Codezella)  
+  - 🗣️ English Proficiency Certificate  
+  - 🧑‍🏫 Training of Trainers (TOT)
+  - 💡 Teaching Training Certificate (TTC)
  
     
 ### 🧠 LinkedIn Learning
