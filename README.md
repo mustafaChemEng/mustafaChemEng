@@ -102,8 +102,8 @@
 - 🧠 Publishing a Sharbot case study & journal-style paper   
 - 📚 Advancing through the full [C++ Roadmap](https://programmingadvices.com)  
 - ✍️ Daily writing practice 
-- 🌍 Production Internship at "Istanbul Technic Isaat" August-2025
-- 🛠 R&D internship at Istanbul Technic Isaat"
+- 🌍 Production Internship at "Istanbul Technic Insaat" August-2025
+- 🛠 R&D internship at "Istanbul Technic Insaat" September - 2025
 
 ---
 
