@@ -99,11 +99,11 @@
 
 ## 🧭 Currently Working On
 
-- 🧠 Publishing a Sharbot case study & journal-style paper  
+- 🧠 Publishing a Sharbot case study & journal-style paper   
 - 📚 Advancing through the full [C++ Roadmap](https://programmingadvices.com)  
-- ✍️ Daily writing practice toward a complete writing portfolio  
-- 🌍 Preparing for **Erasmus+ internships** in Türkiye and Africa  
-- 🛠 Building portfolio website + GitHub README redesigns  
+- ✍️ Daily writing practice 
+- 🌍 Production Internship at "Istanbul Technic Isaat" August-2025
+- 🛠 R&D internship at Istanbul Technic Isaat"
 
 ---
 
