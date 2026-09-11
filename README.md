@@ -10,7 +10,7 @@
 
 I am a final-year Chemical Engineer bridging the gap between classical process engineering and modern data science. Rather than just running simulations until they converge, I build data pipelines to extract thermodynamic insights and optimize plant economics. 
 
-🔹 **Process Simulation:** Advanced modeling using AVEVA Process Simulation, Aspen HYSYS, MATLAB, and Simulink.  
+🔹 **Process Simulation:** Advanced modeling using AVEVA Process Simulation, Aspen HYSYS, MATLAB, and Simulink. 
 🔹 **Data-Driven Optimization:** Leveraging Python (XGBoost, Pandas) to minimize utility consumption and mechanical power requirements in chemical facilities.
 🔹 **Leadership:** Founding President of the AIChE BAIBU Student Chapter and Grant Coordinator/Project Lead for the ÜNİDES Program (Term 6).
 🔹 **Domain Interests:** Refinery Operations, Clean Technology (Syngas, Green Urea), and Industrial Digitization.
