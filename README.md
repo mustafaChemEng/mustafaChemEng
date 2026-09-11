@@ -48,7 +48,6 @@ I am a final-year Chemical Engineer bridging the gap between classical process e
 ## 🧭 Currently Working On
 
 *   Wrapping up my final academic semester (Expected Graduation: January 2027).
-*   Preparing for the IELTS Academic examination (Target Band: 7.5).
 *   Exploring process automation using visual workflow tools like Make.com and n8n.
 
 ---
